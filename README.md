@@ -1,3 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41F723&background=E5000000&width=435&lines=Yoo%2C+Wizbisy+here%F0%9F%91%8B)](https://git.io/typing-svg)
+<h1 align="center">Yoo, wizbisy! 👋
+  <p>
+<p><a href="https://github.com/wizbisy"><img src="https://komarev.com/ghpvc/?username=wizbisy&style=for-the-badge&abbreviated=true&color=blue" alt="Profile views"/></a></p>
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+san&weight=900&pause=1000&color=4000F7&background=C2FFD8&center=true&vCenter=true&width=200&height=30&lines=+++++++++++++++++++++++++++++++++++++++++++++++WIZBISY+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+---
+
+## My GitHub Stats and Top Languages
+![wizbisy's github stats](https://github-readme-stats.vercel.app/api?username=wizbisy&show_icons=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wizbisy&layout=donut&theme=tokyonight&show_icons=true)
