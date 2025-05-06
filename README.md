@@ -1,6 +1,6 @@
 <h1 align="center">Yoo, wizbisy! 👋
   <p>
-<p><a href="https://github.com/wizbisy"><img src="https://komarev.com/ghpvc/?username=wizbisy&style=for-the-badge&abbreviated=true&color=blue" alt="Profile views"/></a></p>
+<p><a href="https://github.com/wizbisy"><img src="https://komarev.com/ghpvc/?username=wizbisy&style=for-the-badge&abbreviated=true&color=red" alt="Profile views"/></a></p>
 </h1>
 
 ---
