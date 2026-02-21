@@ -2,7 +2,7 @@
 
 ### growing developer
 
-<p align="left"><a href="https://github.com/wizbisy"><img src="https://komarev.com/ghpvc/?username=wizbisy&style=for-the-badge&abbreviated=true&color=red" alt="Profile views"/></a></p>
+<p align="left"><a href="https://github.com/wizbisy"><img src="https://komarev.com/ghpvc/?username=wizbisy&style=for-the-badge&abbreviated=true&color=0e75b6&style=flat" alt="Profile views"/></a></p>
 
 <p align="left"><a href="https://github.com/wizbisy"><img src="https://github-profile-trophy-kannan.vercel.app/?username=Wizbisy&theme=onestar" alt="Wizbisy" /></a> </p>
 
