@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **[wizbisy](wizbisy@gmail.com)**
 
-- 👨‍💻 All of my projects are available at **[Wizbisy](https://github.com/Wizbisy)**
+- 👨‍💻 All of my projects are available at **[Wizbisy](https://github.com/Wizbisy?tab=repositories)**
 
 - ⚡ Fun fact **i'm a r3tard**
 
