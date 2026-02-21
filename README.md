@@ -4,7 +4,8 @@
 
 <p align="left"><a href="https://github.com/wizbisy"><img src="https://komarev.com/ghpvc/?username=wizbisy&style=for-the-badge&abbreviated=true&color=red" alt="Profile views"/></a></p>
 
-[![trophy](https://github-profile-trophy-kannan.vercel.app/?username=Wizbisy&theme=onestar)]()
+<p align="left"><a href="https://github.com/wizbisy"><img src="https://github-profile-trophy-kannan.vercel.app/?username=Wizbisy&theme=onestar" alt="Wizbisy" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/0xWizbisy" target="blank"><img src="https://img.shields.io/twitter/follow/0xWizbisy?logo=twitter&style=for-the-badge" alt="0xWizbisy" /></a> </p>
 
