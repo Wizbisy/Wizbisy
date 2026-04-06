@@ -13,8 +13,6 @@
 
 - 🌱 I'm currently learning **rust, SQL**
 
-- 📫 How to reach me **[wizbisy](wizbisy@gmail.com)**
-
 - 👨‍💻 All of my projects are available at **[Wizbisy](https://github.com/Wizbisy?tab=repositories)**
 
 - ⚡ Fun fact **i'm a r3tard**
@@ -26,6 +24,9 @@
 <a href="https://linkedin.com/in/wizbisy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wizbisy" height="30" width="40" /></a>
 <a href="https://twitter.com/0xWizbisy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xWizbisy" height="30" width="40" /></a>
 <a href="https://discord.gg/wizbisy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wizbisy" height="30" width="40" /></a>
+<a href="https://t.me/wizbisy" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" alt="@wizbisy" height="40" width="40" /></a>
+<a href="mailto:wizbisy@gmail.com"><img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="@wizbisy" height="40" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
