@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/0xWizbisy" target="blank"><img src="https://img.shields.io/twitter/follow/0xWizbisy?logo=twitter&style=for-the-badge" alt="0xWizbisy" /></a> </p>
 
-- 🔭 I'm currently working on **mobilestacks**
+- 🔭 I'm currently working on **Aegis**
 
 - 🌱 I'm currently learning **rust, SQL**
 
