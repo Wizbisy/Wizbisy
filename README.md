@@ -41,5 +41,3 @@ Hi 👋, I'm Wizbisy
 
 <p>&nbsp;<img align="center" src="https://wizbisyreadme.vercel.app/api?username=Wizbisy&show_icons=true&theme=dark#gh-dark-mode-only&locale=en" alt="Wizbisy" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=Wizbisy&theme=dark&border_radius=5" alt="Wizbisy" /></p>
-
