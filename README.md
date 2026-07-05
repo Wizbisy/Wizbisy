@@ -1,6 +1,13 @@
-# Hi 👋, I'm Wizbisy
+<div align="center">
+  <a href="https://commit-history.com/Wizbisy">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/Wizbisy?theme=dark" />
+      <img alt="Wizbisy's commit history" src="https://commit-history.com/embed/Wizbisy" />
+    </picture>
+  </a>
+</div>
+Hi 👋, I'm Wizbisy
 
-### growing developer
 
 <p align="left"><a href="https://github.com/wizbisy"><img src="https://github-profile-trophy-kannan.vercel.app/?username=Wizbisy&theme=onestar" alt="Wizbisy" /></a> </p>
 
